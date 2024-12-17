@@ -1,0 +1,1 @@
+In HW 3 you need to create a prototype implementation of quantile forecaster from the HW 2 paper. This implemntation does not need to be production-grade, but it must contain all the main moving parts of the model.

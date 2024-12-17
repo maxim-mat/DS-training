@@ -1,0 +1,15 @@
+In the second homework for this course, you need to review a research paper. Note, that in HW 3 you will need to create a prototype implementation of the same paper, hence, you may consider going a bit deeper into it, compared to a usual review.
+
+The paper for this homework is "A Multi-Horizon Quantile Recurrent Forecaster" by a team from Amazon. This paper extends a simple Seq2Seq architecture to incorporate new plausible model characteristics.
+
+Although you're not limited in the scope of the review, try at least to answer the following questions:
+
+- which setup authors consider? which types of time series from which domain the architecture is designed for? what are the distinctive characteristics of those time series if any?
+- how this paper extends on the prior art? what additional benefits does it bring to the domain? which problem(-s) authors try to solve?
+- what is the main idea or ideas authors use to solve the problem outlined?
+- what are the technical aspects of the architecture? how hard is it to train? how much data does it require? do authors motivate the choice of hyperparameters, specifics of the architecture (number of layers or hidden units, etc.), and so on?
+- how the architecture performs compared to prior art? elaborate on both metrics and conceptual benefits of the model (being able to predict sudden spikes, or producing probabilistic forecasts, etc.).
+- estimate efforts needed to create a prototype of the architecture (without packing it into production-grade wrappers). which short-cuts you can take to create a prototype (smaller model, less data, different dataset, etc.)?
+- how would you employ this model in your domain? would it fit into it or improve over the approaches you already use?
+
+You may consider using two extremely useful tools: Connected Papers and Paper with Code.

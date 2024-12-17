@@ -1,0 +1,1 @@
+In this homework you need to review a paper on time series classification. All the requirements are the same as in HW 2.
